@@ -34,8 +34,7 @@ body {
 }
 
 .box img {
-height:auto;
-width:auto;
+width:100%;
 }
 
 .box a.read-more {
