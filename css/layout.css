@@ -21,6 +21,7 @@ body {
     margin-left:10px;
     float: left;
     height:auto;
+   max-width:350px;
     width:auto;
 }
 
@@ -31,7 +32,8 @@ body {
 }
 
 .box img {
-
+height:auto;
+width:auto;
 }
 
 .box a.read-more {
