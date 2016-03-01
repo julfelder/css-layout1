@@ -15,6 +15,10 @@ body {
 
 .box {
   margin-top: 100px;
+    display: inline-block;
+    position: relative;
+    margin: 1%;
+    float: left;
 }
 
 .box:last-child {
