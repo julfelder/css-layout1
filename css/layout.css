@@ -7,9 +7,10 @@ body {
 .heading {
   position: fixed;
   margin-bottom: 20px;
-  max-width: 100%;
-    width: auto;
-    display:block;
+  width: 100%;
+  top: 0;
+  bottom: 0;
+  border-bottom: 2px solid;
 }
 
 .heading h1 {
@@ -22,8 +23,7 @@ body {
     margin-left:10px;
     float: left;
     height:auto;
-   max-width:350px;
-    width:auto;
+    width:33%;
 }
 
 .box:last-child {
@@ -42,5 +42,6 @@ max-width:300px;
 }
 
 .footer {
-
+position: fixed;
+width: 100%;
 }
