@@ -23,7 +23,7 @@ body {
     margin-left:10px;
     float: left;
     height:auto;
-    width:33%;
+    width:32%;
 }
 
 .box:last-child {
@@ -35,7 +35,6 @@ body {
 .box img {
 height:auto;
 width:auto;
-max-width:300px;
 }
 
 .box a.read-more {
