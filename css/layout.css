@@ -7,7 +7,8 @@ body {
 .heading {
   position: fixed;
   margin-bottom: 20px;
-  width:1000px;
+  max-width: 100%;
+    width: auto;
 }
 
 .heading h1 {
@@ -19,6 +20,8 @@ body {
     position: relative;
     margin-left:10px;
     float: left;
+    height:auto;
+    width:auto;
 }
 
 .box:last-child {
