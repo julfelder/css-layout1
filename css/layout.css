@@ -7,6 +7,7 @@ body {
 .heading {
   position: fixed;
   margin-bottom: 20px;
+  width:1000px;
 }
 
 .heading h1 {
