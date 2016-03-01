@@ -9,6 +9,7 @@ body {
   margin-bottom: 20px;
   max-width: 100%;
     width: auto;
+    display:block;
 }
 
 .heading h1 {
@@ -34,6 +35,7 @@ body {
 .box img {
 height:auto;
 width:auto;
+max-width:300px;
 }
 
 .box a.read-more {
