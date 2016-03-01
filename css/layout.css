@@ -5,6 +5,7 @@ body {
 }
 
 .heading {
+  position: fixed;
 }
 
 .heading h1 {
@@ -20,14 +21,12 @@ body {
 }
 
 .box img {
-  border: 10px solid #3f0;
-  top: 10px;
-  left: 100px;
-  position: relative;
+
 }
 
 .box a.read-more {
 }
 
 .footer {
+  position: fixed;
 }
